@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "@nocobase/database": "0.7.4-alpha.7",
+    "@nocobase/database": "2.0.39",
     "@nocobase/plugin-error-handler": "0.7.4-alpha.7",
     "@nocobase/server": "0.7.4-alpha.7",
     "sequelize": "^6.9.0"
