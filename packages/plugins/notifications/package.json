@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "nodemailer": "^6.6.1"
+    "nodemailer": "^8.0.5"
   },
   "devDependencies": {
     "@nocobase/test": "0.7.4-alpha.7",
